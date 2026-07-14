@@ -111,3 +111,31 @@
     font-size: 24px;
     font-weight: bold;
 }
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 40px 20px;
+    margin-top: 50px;
+}
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-links a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #555;
+    margin: 20px 0;
+}
+
+.footer-bottom {
+    text-align: center;
+    font-size: 14px;
+}
